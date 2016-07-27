@@ -13,6 +13,6 @@ var ViewController = (function ($) {
             } else {
                 $text.html('Off')
             }
-		})
+		});
 	});
 })(jQuery);
